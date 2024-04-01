@@ -1,0 +1,16 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Meu projeto JavaScript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha test/*.js",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "biblioteca-1": "^1.0.0",
+    "biblioteca-2": "~2.0.0"
+  }
+}
