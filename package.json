@@ -1,16 +1,11 @@
 {
-  "name": "meu-projeto",
+  "name": "meu-projeto-gemini", // Troque por um nome único para seu projeto
   "version": "1.0.0",
-  "description": "Meu projeto JavaScript",
-  "private": true,
-  "type": "module",
+  "description": "Projeto para interagir com a API Gemini",
   "scripts": {
-    "start": "node server.js",
-    "test": "mocha test/*.js",
-    "build": "webpack"
+    "start": "index.html" // Script para iniciar o projeto (opcional)
   },
   "dependencies": {
-    "biblioteca-2": "~2.0.0",
-    "date-fns": "^latest"  // Você pode escolher uma versão específica se necessário
+    // Não há dependências externas necessárias para este código
   }
 }
