@@ -10,7 +10,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "biblioteca-1": "^1.0.0",
-    "biblioteca-2": "~2.0.0"
+    "biblioteca-2": "~2.0.0",
+    "date-fns": "^latest"  // Você pode escolher uma versão específica se necessário
   }
 }
