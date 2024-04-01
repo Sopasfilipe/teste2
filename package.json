@@ -1,11 +1,10 @@
 {
-  "name": "meu-projeto-gemini", // Troque por um nome único para seu projeto
+  "name": "meu-projeto-gemini", 
   "version": "1.0.0",
   "description": "Projeto para interagir com a API Gemini",
   "scripts": {
-    "start": "index.html" // Script para iniciar o projeto (opcional)
+    "start": "index.html" 
   },
   "dependencies": {
-    // Não há dependências externas necessárias para este código
-  }
+   }
 }
